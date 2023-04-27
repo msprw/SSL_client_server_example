@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+server
+client
+
+#VS Code files
+.vscode/settings.json
+.vscode/tasks.json
