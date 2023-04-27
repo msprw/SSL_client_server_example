@@ -33,6 +33,18 @@
 server
 client
 
-#VS Code files
+# VS Code files
 .vscode/settings.json
 .vscode/tasks.json
+.vscode/launch.json
+
+# Certs and keys for testing purpose
+certs/client.crt
+certs/client.csr
+certs/rootCA.crt
+certs/rootCA.srl
+certs/server.crt
+certs/server.csr
+keys/client.key
+keys/rootCA.key
+keys/server.key
